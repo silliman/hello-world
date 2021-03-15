@@ -2,4 +2,5 @@
 <!-- <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2> --!>
 <h2> Deploying on a container using ansible playbooks</h2>
 <h2> Glad to see you here on a manic monday march 15!!!</h2>
+<h2> Bienvenue !</h2>
 <h2> Really, I am!! </h2>
